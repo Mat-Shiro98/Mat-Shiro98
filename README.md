@@ -29,7 +29,8 @@
 
 ## 🛠️ Mis Habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Lenguajes de Programación
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Desarrollo Backend
+
 
 <p align="center"> 
   &emsp; 
@@ -39,6 +40,11 @@
   &emsp; 
  <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-000000?logo=nodedotjs">
+ </a>
+
+   &emsp; 
+ <a href="https://www.w3schools.com/mysql/mysql_intro.asp" target="_blank"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/mysql-white?logo=mysql">
  </a>
  
 </p>
