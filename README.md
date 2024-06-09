@@ -38,7 +38,7 @@
    </a>
   &emsp; 
  <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs">
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-000000?logo=nodedotjs">
  </a>
  
 </p>
