@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy [Tu Nombre] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, Soy Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Desarrollador+Web;Amante+de+la+tecnología;Siempre+aprendiendo+nuevas+cosas"></a>
 </p>
@@ -13,14 +13,12 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: Soy `Estudiante` de [Tu Carrera] en [Tu Universidad].
-- :trophy: [Tus logros importantes].
+- :school:  `Estudiante` de UTN.
+- :trophy: Diplomatura en Programación Web Full Stack
 - :technologist: Me encanta usar el software como solución para cada `problema`.
-- :computer: Soy un programador competitivo en `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Concursos de Google`.
-- :student: Actualmente estoy aprendiendo `Ciencia de la Computación` y `Ingeniería de Software`.
+- :student: Actualmente estoy aprendiendo `Desarrollo de aplicaciones movile`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Actualmente estoy abierto a una nueva `oportunidad de trabajo`, este es [MI CV](URL).
-- :boom: Puedes visitar [MI SITIO WEB](URL).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Mis Perfiles de Programación Competitiva
