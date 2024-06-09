@@ -37,8 +37,10 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp; 
- ![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs)
-
+ <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs">
+ </a>
+ 
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Desarrollo Frontend
