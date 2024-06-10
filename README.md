@@ -8,7 +8,7 @@
 
 - :school:  `Estudiante` de UTN.
 - :trophy: Diplomatura en Programación Web Full Stack
-- :technologist: Me encanta usar el software como solución para cada `problema`.
+- :technologist: Quiero mejorar en la programación para solucionar futuros `problemas`.
 - :student: Actualmente estoy aprendiendo `Desarrollo de aplicaciones movile`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Actualmente estoy abierto a una nueva `oportunidad de trabajo`, este es [MI CV](URL).
