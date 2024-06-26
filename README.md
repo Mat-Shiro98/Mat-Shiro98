@@ -10,7 +10,7 @@
 - :trophy: Diplomatura en Programación Web Full Stack
 - :technologist: Quiero mejorar en la programación para solucionar futuros `problemas`.
 - :student: Actualmente estoy aprendiendo `Desarrollo de aplicaciones movile`.
-- :nerd_face: Siempre `aprendiendo cosas nuevas`.
+- :nerd_face: Siempre `aprendiendo nuevas tecnologías`.
 - :thinking: Actualmente estoy abierto a una nueva `oportunidad de trabajo`, este es [MI CV](URL).
 <br>
 
